@@ -24,7 +24,7 @@ This project has two versions:
 ## Project Structure
 
 ```
-rag_langchain/
+pdfQA-LangChain/
 │
 ├── app.py                   # Version 1: FAISS + no custom prompt (basic)
 ├── add_pinecone_to_code.py  # Version 2: Pinecone + strict custom prompt (improved)
