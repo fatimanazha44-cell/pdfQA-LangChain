@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-pinecone
+langchain-groq
+sentence-transformers
+faiss-cpu
+pinecone
+pypdf
+python-dotenv
+ 
